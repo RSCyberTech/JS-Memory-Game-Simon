@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightGray;
+    color: black;
+    padding: 0px;
+}
+
+a:link {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:visited {
+    text-decoration: none;
+    color: lightgray;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.centrado {
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    color: LightGray;
+}
+
+footer {
+    background-color: black;
+    color: LightGray;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#blue {
+    background-color: darkblue;
+}
+
+#green {
+    background-color: darkgreen;
+}
+
+#red {
+    background-color: darkred;
+}
+
+#yellow {
+    background-color: goldenrod;
+}
