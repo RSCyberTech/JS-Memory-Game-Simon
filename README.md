@@ -1,3 +1,5 @@
+https://rscybertech.github.io/JS-Memory-Game-Simon/
+
 JAVASCRIPT MEMORY GAME
 
 This project was done as a way to improve and train my javascript knowledge.
